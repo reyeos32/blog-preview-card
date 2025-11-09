@@ -11,6 +11,13 @@ body {
     font-family: "Figtree", sans-serif;
 }
 
+.box {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .container {
     width: 400px;
     height: 550px;
@@ -69,4 +76,5 @@ body {
 
 .container .profile span {
     font-weight: 700;
+
 }
